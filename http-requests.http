@@ -1,0 +1,28 @@
+POST http://localhost:8080/ai/tools
+Content-Type: text/plain
+
+What is the current traffic information for the A1?
+
+###
+POST http://localhost:8080/ai/tools
+Content-Type: text/plain
+
+Wie ist die aktuelle Verkehrssituation auf der A1?
+
+###
+POST http://localhost:8080/ai/tools
+Content-Type: text/plain
+
+What is the current traffic information for the A5?
+
+###
+POST http://localhost:8080/ai/tools
+Content-Type: text/plain
+
+What is the current weather in Bielefeld?
+
+###
+POST http://localhost:8080/ai/tools
+Content-Type: text/plain
+
+What is the current weather in New York?
